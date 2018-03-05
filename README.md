@@ -1,3 +1,3 @@
 # FlashMatting
 
-![](UnitTest/dump.png)
+![](UnitTest/dump.jpg)
